@@ -1,4 +1,13 @@
-## The Golden Rule:
+//state: we need to track name from input
+One input event whenever someone tpyes into text box
+
+
+
+
+
+
+
+
 
 🦸 🦸‍♂️ `Stop starting and start finishing.` 🏁
 
