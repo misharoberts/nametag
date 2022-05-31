@@ -27,3 +27,31 @@ footer {
     justify-content: flex-end;
     background-color: var(--footer-background);
 }
+#name-tag{
+    background-color: orangered;
+    width: 200px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    border-radius: 5px;
+}
+span {
+    display:block;
+}
+
+#greeting-dis {
+    color:white;
+    font-weight: 800;
+    font-size: 3rem;
+}
+
+#intro-dis {
+    color: white;
+    padding-bottom: 10px;
+}
+
+#name-dis {
+    background: white;
+    paddint-top: 20px;
+    padding-bottom: 20px;
+}
