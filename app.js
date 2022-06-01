@@ -7,8 +7,9 @@ const nameDisplay = document.getElementById('name-dis');
 
 
 nameInput.addEventListener('input', () => {
-      const name = nameInput.value:
-      console.log('input value is' , name);
+      const name = nameInput.value;
+      nameDisplay.textContent = name;
+
 
 
 });
