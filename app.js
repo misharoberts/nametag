@@ -2,10 +2,15 @@
 
 const nameInput = document.getElementById('name-input');
 console.log(nameInput);
+const nameDisplay = document.getElementById('name-dis');
+console.log(nameDisplay);
+
 
 
 nameInput.addEventListener('input', () => {
   console.log('inputworking');
+
+
 });
 
 
